@@ -1,0 +1,12 @@
+header{
+    text-align: center;
+    color: rgb(91, 33, 146);
+    font: 1em sans-serif;
+}
+
+body{
+    background-color: rgba(182, 27, 87, 0.733);
+}
+section{
+    background-color: bisque;
+}
