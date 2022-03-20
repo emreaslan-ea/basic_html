@@ -1,12 +1,35 @@
 header{
-    text-align: center;
-    color: rgb(91, 33, 146);
+    
+    color: rgb(8, 46, 58);
     font: 1em sans-serif;
+    background-color: rgba(203, 214, 223, 0.733);
 }
-
+article1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bolder;
+    color: burlywood;
+}
+.ID{
+    background-color: brown;
+    font-size: medium;
+    font-style: oblique;
+    font-family: fantasy;
+    
+}
 body{
-    background-color: rgba(182, 27, 87, 0.733);
+    font: 1.2em "Fira Sans", sans-serif;
+    background-color: rgb(25, 99, 102);
+    text-align: center;
 }
-section{
-    background-color: bisque;
+img{
+    box-align: center;
+    background-origin: padding-box;
+    height: 400px;
+}
+footer{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.link{
+    text-decoration: double;
+    color: aliceblue;
 }
