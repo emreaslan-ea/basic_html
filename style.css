@@ -4,16 +4,18 @@ header{
     font: 1em sans-serif;
     background-color: rgba(203, 214, 223, 0.733);
 }
+
 article1{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-weight: bolder;
     color: burlywood;
 }
 .ID{
-    background-color: brown;
+    margin-top: 2px;
     font-size: medium;
     font-style: oblique;
     font-family: fantasy;
+    padding: auto 5%;
     
 }
 body{
@@ -32,4 +34,20 @@ footer{
 .link{
     text-decoration: double;
     color: aliceblue;
+}
+.main-nft{
+    margin: 40px 400px;
+}
+
+.nft{
+    padding: 5%;
+    margin-top: 6%;
+    background-color: rgb(176, 180, 179);
+    border-radius: 12%;
+}
+
+.comments{
+    margin: auto 150px;
+    background-color: rgb(179, 38, 92);
+    border-radius: 25%;
 }
